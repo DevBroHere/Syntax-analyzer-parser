@@ -32,3 +32,5 @@ Examples of program execution:
 
 ![Error_message](https://user-images.githubusercontent.com/75490317/189174663-14b35b98-a275-44d3-9ed9-a65054856fa2.png)
 ![Good_message](https://user-images.githubusercontent.com/75490317/189174677-eea09509-1b79-4596-b021-10ca7e7b6410.png)
+
+Author: Cezary Bujak
